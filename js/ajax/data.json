@@ -1,0 +1,21 @@
+{
+	"divi": {
+		"1": {
+      "name": "Beady little eyes",
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel felis quam. Mauris interdum sem imperdiet diam lacinia, eu iaculis metus consectetur. Nulla turpis nunc, cursus ac libero id, venenatis gravida risus. Integer ut congue tortor. Morbi iaculis pellentesque arcu, vitae imperdiet nisl rutrum vitae. Mauris condimentum dolor mi, non facilisis turpis vehicula sed. Vestibulum quis ligula tortor. Suspendisse vitae risus vitae libero viverra ullamcorper. Praesent auctor lacinia nisi, ac efficitur nisl rhoncus ut.",
+      "strat": "1",
+      "design": "2",
+      "dev": "3"
+    },
+    "2": {
+      "name": "nothing",
+      "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel felis quam. Mauris interdum sem imperdiet.",
+      "strat": "1",
+      "dev": "3"
+    }
+	},
+	"custom": {
+		"two": "Beady little eyes",
+		"three": "Little birds pitch by my doorstep"
+	}
+}

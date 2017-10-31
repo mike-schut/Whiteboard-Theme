@@ -1,0 +1,17 @@
+{
+  "1":{
+    "name": "Lauren",
+    "role": "strat",
+    "color": "#7ec0ee"
+  },
+  "2":{
+    "name": "Adam",
+    "role": "design",
+    "color": "#FF00ff"
+  },
+  "3":{
+    "name": "Kevin",
+    "role": "dev",
+    "color": "#FFA500"
+  }
+}
